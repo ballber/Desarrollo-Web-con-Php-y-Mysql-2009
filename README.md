@@ -1,5 +1,6 @@
 # Desarrollo-web-con-php-y-mysql-2009
-Desarrollo Web con PHP y MySQL (PHP 5.3 y MySQL 5.1) 2009
+Desarrollo Web con PHP y MySQL (PHP 5.3 y MySQL 5.1) 2009  
+Titulo de la obra original : PHP and MySQL Web Development Fouth Edition (Addison Wesley)
 
 En el CD-ROM que acompaña al libro podrá encontrar un conjunto de programas y archivos que le serán
 de gran ayuda a la hora de llevar a cabo su trabajo, y sus aplicaciones Web dirigidas a bases de datos.
