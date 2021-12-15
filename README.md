@@ -30,38 +30,38 @@ Las distintas carpetas de código son las que figuran a continuación:
 
 [Capítulo 05](https://github.com/jbb21/Desarrollo-Web-con-Php-y-Mysql-2009/tree/main/Ejemplos/Chapter%2005)
 
-Capítulo 06
+[Capítulo 06](https://github.com/jbb21/Desarrollo-Web-con-Php-y-Mysql-2009/tree/main/Ejemplos/Chapter%2006)
 
-Capítulo 07
+[Capítulo 07](https://github.com/jbb21/Desarrollo-Web-con-Php-y-Mysql-2009/tree/main/Ejemplos/Chapter%2007)
 
-Capítulo 09
+[Capítulo 09](https://github.com/jbb21/Desarrollo-Web-con-Php-y-Mysql-2009/tree/main/Ejemplos/Chapter%2009)
 
-Capítulo 10
+[Capítulo 10](https://github.com/jbb21/Desarrollo-Web-con-Php-y-Mysql-2009/tree/main/Ejemplos/Chapter%2010)
 
-Capítulo 11
+[Capítulo 11](https://github.com/jbb21/Desarrollo-Web-con-Php-y-Mysql-2009/tree/main/Ejemplos/Chapter%2011)
 
-Capítulo 13
+[Capítulo 13](https://github.com/jbb21/Desarrollo-Web-con-Php-y-Mysql-2009/tree/main/Ejemplos/Chapter%2013)
 
-Capítulo 17
+[Capítulo 17](https://github.com/jbb21/Desarrollo-Web-con-Php-y-Mysql-2009/tree/main/Ejemplos/Chapter%2017)
 
-Capítulo 18
+[Capítulo 18](https://github.com/jbb21/Desarrollo-Web-con-Php-y-Mysql-2009/tree/main/Ejemplos/Chapter%2014)
 
-Capítulo 19
+[Capítulo 19](https://github.com/jbb21/Desarrollo-Web-con-Php-y-Mysql-2009/tree/main/Ejemplos/Chapter%2018)
 
-Capítulo 21
+[Capítulo 21](https://github.com/jbb21/Desarrollo-Web-con-Php-y-Mysql-2009/tree/main/Ejemplos/Chapter%2021)
 
-Capítulo 27
+[Capítulo 27](https://github.com/jbb21/Desarrollo-Web-con-Php-y-Mysql-2009/tree/main/Ejemplos/Chapter%2027)
 
-Capítulo 28
+[Capítulo 28](https://github.com/jbb21/Desarrollo-Web-con-Php-y-Mysql-2009/tree/main/Ejemplos/Chapter%2028)
 
-Capítulo 29
+[Capítulo 29](https://github.com/jbb21/Desarrollo-Web-con-Php-y-Mysql-2009/tree/main/Ejemplos/Chapter%2029)
 
-Capítulo 30
+[Capítulo 30](https://github.com/jbb21/Desarrollo-Web-con-Php-y-Mysql-2009/tree/main/Ejemplos/Chapter%2030)
 
-Capítulo 31
+[Capítulo 31](https://github.com/jbb21/Desarrollo-Web-con-Php-y-Mysql-2009/tree/main/Ejemplos/Chapter%2031)
 
-Capítulo 32
+[Capítulo 32](https://github.com/jbb21/Desarrollo-Web-con-Php-y-Mysql-2009/tree/main/Ejemplos/Chapter%2032)
 
-Capítulo 33
+[Capítulo 33](https://github.com/jbb21/Desarrollo-Web-con-Php-y-Mysql-2009/tree/main/Ejemplos/Chapter%2033)
 
-Capítulo 34
+[Capítulo 34](https://github.com/jbb21/Desarrollo-Web-con-Php-y-Mysql-2009/tree/main/Ejemplos/Chapter%2034)
